@@ -16,6 +16,10 @@
     "theme"
   ],
   "author": "Daiki Nakashima",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Daiki48/inkdrop-terracecat-dark-ui-theme.git"
+  },
   "license": "MIT",
   "devDependencies": {
     "better-console": "^1.0.1",
