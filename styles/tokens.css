@@ -1,0 +1,33 @@
+:root {
+	--hsl-black-100: 205deg 0% 5%;
+	--hsl-black-300: 205deg 0% 10%;
+	--hsl-black-500: 205deg 0% 20%;
+	--hsl-black-700: 205deg 0% 30%;
+	--hsl-black-900: 205deg 0% 40%;
+
+	--hsl-black-blue-100: 222deg 35% 27%;
+  --hsl-black-blue-200: 222deg 30% 23%;
+  --hsl-black-blue-300: 222deg 25% 20%;
+  --hsl-black-blue-400: 222deg 22% 18%;
+  --hsl-black-blue-500: 222deg 18% 16%;
+  --hsl-black-blue-600: 222deg 12% 14%;
+  --hsl-black-blue-700: 222deg 8% 12%;
+  --hsl-black-blue-800: 222deg 6% 10%;
+  --hsl-black-blue-900: 222deg 4% 8%;
+
+  --color-black-100: hsl(var(--hsl-black-100));
+  --color-black-300: hsl(var(--hsl-black-300));
+  --color-black-500: hsl(var(--hsl-black-500));
+  --color-black-700: hsl(var(--hsl-black-700));
+  --color-black-900: hsl(var(--hsl-black-900));
+
+  --color-black-blue-100: hsl(var(--hsl-black-blue-100));
+  --color-black-blue-200: hsl(var(--hsl-black-blue-200));
+  --color-black-blue-300: hsl(var(--hsl-black-blue-300));
+  --color-black-blue-400: hsl(var(--hsl-black-blue-400));
+  --color-black-blue-500: hsl(var(--hsl-black-blue-500));
+  --color-black-blue-600: hsl(var(--hsl-black-blue-600));
+  --color-black-blue-700: hsl(var(--hsl-black-blue-700));
+  --color-black-blue-800: hsl(var(--hsl-black-blue-800));
+  --color-black-blue-900: hsl(var(--hsl-black-blue-900));
+}
