@@ -11,15 +11,9 @@ ipm install terracecat-dark-ui
 
 ## Screenshot
 
-### Edit mode
+![Require v5.9.0](./screenshot/terracecat-dark-ui_v590.png)
 
-![edit](./screenshot/image-edit-mode.png)
-
-### Preview mode
-
-![preview](./screenshot/image-preview-mode.png)
 
 ## Author
 
 Daiki Nakashima
-
