@@ -1,6 +1,6 @@
 {
   "name": "terracecat-dark-ui",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "theme": "ui",
   "description": "TerraceCat Dark UI Theme for Inkdrop",
   "styleSheets": [
@@ -20,7 +20,7 @@
   },
   "license": "MIT",
   "devDependencies": {
-		"@inkdropapp/theme-dev-helpers": "^0.3.6"
+		"@inkdropapp/theme-dev-helpers": "^0.3.7"
   },
   "engines": {
     "inkdrop": "^5.9.0"
