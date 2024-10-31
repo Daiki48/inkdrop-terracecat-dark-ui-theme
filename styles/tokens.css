@@ -1,11 +1,11 @@
 :root {
-	--hsl-black-100: 205deg 0% 5%;
-	--hsl-black-300: 205deg 0% 10%;
-	--hsl-black-500: 205deg 0% 20%;
-	--hsl-black-700: 205deg 0% 30%;
-	--hsl-black-900: 205deg 0% 40%;
+  --hsl-black-100: 205deg 0% 5%;
+  --hsl-black-300: 205deg 0% 10%;
+  --hsl-black-500: 205deg 0% 20%;
+  --hsl-black-700: 205deg 0% 30%;
+  --hsl-black-900: 205deg 0% 40%;
 
-	--hsl-black-blue-100: 222deg 35% 27%;
+  --hsl-black-blue-100: 222deg 35% 27%;
   --hsl-black-blue-200: 222deg 30% 23%;
   --hsl-black-blue-300: 222deg 25% 20%;
   --hsl-black-blue-400: 222deg 22% 18%;
